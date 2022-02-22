@@ -7,22 +7,13 @@ It involves three steps:
 2. training
 3. testing
 
+### Preprocessing
 The preprocessing is done separately to save time during the training of the models.
-
-For ESC-50: 
+ 
 ```console
-python preprocessing/preprocessingESC.py --csv_file /path/to/file.csv --data_dir /path/to/audio_data/ --store_dir /path/to/store_spectrograms/ --sampling_rate 44100
+python preprocessing/preprocessingGAN.py --csv_file /path/to/file.csv --data_dir /path/to/audio_data/ --store_dir /path/to/store_spectrograms/ --sampling_rate 16000
 ```
-
-For UrbanSound8K:
-```console
-python preprocessing/preprocessingUSC.py --csv_file /path/to/csv_file/ --data_dir /path/to/audio_data/ --store_dir /path/to/store_spectrograms/
-```
-
-For GTZAN:
-```console
-python preprocessing/preprocessingGTZAN.py --data_dir /path/to/audio_data/ --store_dir /path/to/store_spectrograms/ --sampling_rate 22050
-```
+Refer to PrepCSV/CreateCSV*.py to prepare the csv file that has a list of all the training, validation, and test files
 
 ### Training the Models
 
