@@ -1,11 +1,11 @@
 # Rethinking CNN Models for Audio Classification
 
-This repository contains the PyTorch code for our paper [Rethinking CNN Models for Audio Classification](https://arxiv.org/abs/2007.11154). The experiments are conducted on the following three datasets which can be downloaded from the links provided:
-1. [ESC-50](https://github.com/karolpiczak/ESC-50)
-2. [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html)
-3. [GTZAN](https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification)
+This repository is forked from the repository that contains the PyTorch code for the paper [Rethinking CNN Models for Audio Classification](https://arxiv.org/abs/2007.11154). 
 
-### Preprocessing
+It involves three steps:
+1. preprocessing
+2. training
+3. testing
 
 The preprocessing is done separately to save time during the training of the models.
 
@@ -31,3 +31,7 @@ The configurations for training the models are provided in the config folder. Th
 python train.py --config_path /config/your_config.json
 ```
 
+### Testing the model
+```console
+python test.py --config_path /config/your_config.json
+```
