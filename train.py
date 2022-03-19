@@ -19,7 +19,6 @@ from tensorboardX import SummaryWriter
 parser = argparse.ArgumentParser()
 parser.add_argument("--config_path", type=str)
 
-
 def train(model, device, data_loader, optimizer, loss_fn):
     model.train()
     loss_avg = utils.RunningAverage()
@@ -28,7 +27,7 @@ def train(model, device, data_loader, optimizer, loss_fn):
         for batch_idx, data in enumerate(data_loader):
             inputs = data[0].to(device)
             target = data[1].squeeze(1).to(device)
-
+#            model.model.classifier[0].register_forward_hook(model.hook)
             outputs = model(inputs)
 
             loss = loss_fn(outputs, target)
@@ -50,7 +49,7 @@ def train_and_evaluate(model, device, train_loader, val_loader, optimizer, loss_
     for epoch in range(params.epochs):
         avg_loss = train(model, device, train_loader, optimizer, loss_fn)
 
-        acc = validate.evaluate(model, device, val_loader)
+        acc,conf_mat = validate.evaluate(model, device, val_loader)
         print("Epoch {}/{} Loss:{} Valid Acc:{}".format(epoch, params.epochs, avg_loss, acc))
 
         is_best = (acc > best_acc)
@@ -71,7 +70,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     params = utils.Params(args.config_path)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-    pdb.set_trace()
     for i in range(1, params.num_folds+1):
         if params.dataaug:
             train_loader = dataloaders.datasetaug.fetch_dataloader( "{}training128mel{}.pkl".format(params.data_dir, i), params.dataset_name, params.batch_size, params.num_workers, 'train')
@@ -82,7 +80,7 @@ if __name__ == "__main__":
 
         writer = SummaryWriter(comment=params.dataset_name)
         if params.model=="densenet":
-            model = models.densenet.DenseNet(params.dataset_name, params.pretrained).to(device)
+            model = models.densenet.DenseNet(params.dataset_name, params.pretrained, params.nodes).to(device)
         elif params.model=="resnet":
             model = models.resnet.ResNet(params.dataset_name, params.pretrained).to(device)
         elif params.model=="inception":

@@ -74,7 +74,7 @@ class AudioDataset(Dataset):
 def fetch_dataloader(pkl_dir, dataset_name, batch_size, num_workers, mode):
 	transforms = MelSpectrogram(128, mode, dataset_name)
 	dataset = AudioDataset(pkl_dir, dataset_name, transforms=transforms)
-	dataloader = DataLoader(dataset,shuffle=True, batch_size=batch_size, num_workers=num_workers)
+	dataloader = DataLoader(dataset,shuffle=False, batch_size=batch_size, num_workers=num_workers)
 	return dataloader
 	
 

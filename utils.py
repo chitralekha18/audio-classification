@@ -40,10 +40,10 @@ def save_checkpoint(state, is_best, split, checkpoint):
 	if is_best:
 		shutil.copyfile(filename, os.path.join(checkpoint, "model_best_{}.pth.tar".format(split)))
 
-def load_checkpoint(checkpoint, model, optimizer=None, parallel=False):
+def load_checkpoint(checkpoint, model, device, optimizer=None, parallel=False):
 	if not os.path.exists(checkpoint):
 		raise("File Not Found Error {}".format(checkpoint))
-	checkpoint = torch.load(checkpoint)
+	checkpoint = torch.load(checkpoint,map_location=device)
 	if parallel:
 		model.module.load_state_dict(checkpoint["model"])
 	else:

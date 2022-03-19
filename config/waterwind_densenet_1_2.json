@@ -1,0 +1,16 @@
+{
+	"dataset_name": "WaterWind_densenet",
+	"data_dir": "WaterWind_densenet/store_spectrograms/",
+	"dataaug": true,
+	"pretrained": true,
+	"scheduler": true,
+	"model": "densenet",
+        "nodes": [1,2],
+	"batch_size": 32,
+	"num_workers": 8,
+	"epochs": 70,
+	"lr": 1e-4,
+    "weight_decay": 1e-3,
+    "num_folds": 1,
+    "checkpoint_dir": "WaterWind_densenet/waterwind_checkpoint_dir_1_2"
+}

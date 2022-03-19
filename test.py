@@ -22,7 +22,6 @@ parser.add_argument("--config_path", type=str)
 
 
 def evaluate(model, device, val_loader, params, split):
-
     acc,conf_mat = validate.evaluate(model, device, val_loader)
     print(conf_mat)
     return acc
@@ -31,7 +30,8 @@ def evaluate(model, device, val_loader, params, split):
 if __name__ == "__main__":
     args = parser.parse_args()
     params = utils.Params(args.config_path)
-    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cpu") #torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    #pdb.set_trace()
     for i in range(0, params.num_folds):
         if params.dataaug:
             val_loader = dataloaders.datasetaug.fetch_dataloader("{}testing128mel{}.pkl".format(params.data_dir, i), params.dataset_name, params.batch_size, params.num_workers, 'testing')
@@ -40,12 +40,14 @@ if __name__ == "__main__":
 
         writer = SummaryWriter(comment=params.dataset_name)
         if params.model=="densenet":
-            model = models.densenet.DenseNet(params.dataset_name, params.pretrained).to(device)
-            chkpt,model = utils.load_checkpoint('RNN/rnn_checkpoint_dir/model_best_4.pth.tar',model)
+#            print(params.nodes)
+            model = models.densenet.DenseNet(params.dataset_name, params.pretrained,params.nodes).to(device)
+#            pdb.set_trace()
+            chkpt,model = utils.load_checkpoint('WaterWind_densenet/waterwind_checkpoint_dir_2_2/model_best_1.pth.tar',model,device)
 #            model = utils.load_checkpoint('RNN/rnn_checkpoint_dir/last2.pth.tar',model)
         elif params.model=="resnet":
             model = models.resnet.ResNet(params.dataset_name, params.pretrained).to(device)
-            chkpt,model = utils.load_checkpoint('RNN/rnn_checkpoint_dir_resnet/model_best_1.pth.tar',model)
+            chkpt,model = utils.load_checkpoint('WaterWind/waterwind_checkpoint_dir_resnet/model_best_4.pth.tar',model,device)
 #        elif params.model=="inception":
 #            model = models.inception.Inception(params.dataset_name, params.pretrained).to(device) 
 
