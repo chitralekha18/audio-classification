@@ -15,9 +15,10 @@ def evaluate(model, device, test_loader):
 			inputs = data[0].to(device)
 			target = data[1].squeeze(1).to(device)
 			model.model.classifier[0].register_forward_hook(model.hook)
+
 			outputs = model(inputs)
-			for i in range(min(len(model.layeroutput[0]),len(outputs.data))):
-				fout.write(','.join(model.layeroutput[0][i].numpy().astype('str'))+',')
+			for i in range(min(len(model.layeroutput),len(outputs.data))):
+				fout.write(','.join(model.layeroutput[i].numpy().astype('str'))+',')
 				fout.write(','.join(outputs.data[i].numpy().astype('str'))+'\n')
 
 

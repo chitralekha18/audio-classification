@@ -21,4 +21,6 @@ class DenseNet(nn.Module):
         return output
 
     def hook(self,module,input,output): 
-        self.layeroutput.append(output)
+        self.layeroutput = output
+
+
