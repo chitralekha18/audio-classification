@@ -2,12 +2,13 @@ import torch
 import numpy as np
 import pdb
 from torchsummary import summary
-def evaluate(model, device, test_loader):
+def evaluate(model, device, test_loader,test=0):
 	correct = 0
 	total = 0
 	conf_mat = np.zeros((2,2))
 
-	fout = open('predicted_.csv','w')
+	if test:
+		fout = open('predicted_.csv','w')
 	
 	model.eval()
 	with torch.no_grad():
@@ -17,9 +18,10 @@ def evaluate(model, device, test_loader):
 			model.model.classifier[0].register_forward_hook(model.hook)
 
 			outputs = model(inputs)
-			for i in range(min(len(model.layeroutput),len(outputs.data))):
-				fout.write(','.join(model.layeroutput[i].numpy().astype('str'))+',')
-				fout.write(','.join(outputs.data[i].numpy().astype('str'))+'\n')
+			if test:
+				for i in range(min(len(model.layeroutput),len(outputs.data))):
+					fout.write(','.join(model.layeroutput[i].numpy().astype('str'))+',')
+					fout.write(','.join(outputs.data[i].numpy().astype('str'))+'\n')
 
 
 			_, predicted = torch.max(outputs.data, 1)
