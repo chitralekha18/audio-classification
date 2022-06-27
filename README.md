@@ -2,6 +2,13 @@
 
 This repository is forked from the repository that contains the PyTorch code for the paper [Rethinking CNN Models for Audio Classification](https://arxiv.org/abs/2007.11154). 
 
+## Installation
+Install the packages in requirements.txt in your python environment
+```
+pip install -r requirements.txt
+```
+
+## Audio Classification Train and Test
 It involves four steps:
 1. prepare csv
 2. preprocessing
@@ -30,6 +37,7 @@ python train.py --config_path /config/your_config.json
 python test.py --config_path /config/your_config.json
 ```
 The output is going to be in your current directory in "predicted_.csv". The number of columns in this file is equal to the number of nodes in penultimate layer plus the number of output nodes. For example, if the penultimate layer has 3 nodes and the final layer has 2 nodes, there will be 5 columns in the predicted CSV file.
+
 
 ### Merge classifier output with GAN json file
 Additionally, to merge the predicted softlabels and outputs of the classifier with the GAN json file, follow the following steps:
