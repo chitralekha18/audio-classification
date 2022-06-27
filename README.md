@@ -33,6 +33,7 @@ The output is going to be in your current directory in "predicted_.csv". The num
 
 ### Merge classifier output with GAN json file
 Additionally, to merge the predicted softlabels and outputs of the classifier with the GAN json file, follow the following steps:
+
 5. copy the *predicted_\*.csv* file to the folder IncludeSoftLabelsToGANjson, and rename it to represent the number of penultimate and final nodes. For example, if the penultimate layer has 3 nodes and the final layer has 2 nodes, rename this file to *predicted_3_2.csv*.
 6. Also copy the json file from the data directory for GAN into this folder (IncludeSoftLabelsToGANjson)
 7. And copy the test csv generated from 1. into this folder (IncludeSoftLabelsToGANjson)
