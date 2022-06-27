@@ -1,4 +1,3 @@
-import os
 import json
 import numpy as np
 import sys
@@ -12,10 +11,10 @@ def sigmoid(val):
     return 1/(1+np.exp(-val))
 
 if __name__ == "__main__":
-    predictedsoftlabelsCSV = sys.argv[0]
-    filelistCSV = sys.argv[1]
-    original_json = sys.argv[2]
-    output_json = sys.argv[3]
+    predictedsoftlabelsCSV = sys.argv[1]
+    filelistCSV = sys.argv[2]
+    original_json = sys.argv[3]
+    output_json = sys.argv[4]
 
     # Opening JSON file
     f = open(original_json)
