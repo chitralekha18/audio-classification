@@ -7,8 +7,8 @@ import utils
 import validate
 import argparse
 import models.densenet
-import models.resnet
-import models.inception
+# import models.resnet
+# import models.inception
 import time
 import dataloaders.datasetaug
 import dataloaders.datasetnormal
