@@ -1,6 +1,6 @@
 {
 	"dataset_name": "WaterWind_densenet",
-	"data_dir": "WaterWind_densenet/store_spectrograms/",
+	"data_dir": "/scratch/chitra/WaterWind_withsoftlabelsjson/store_spectrograms/",
 	"dataaug": true,
 	"pretrained": true,
 	"scheduler": true,
@@ -12,5 +12,5 @@
 	"lr": 1e-4,
     "weight_decay": 1e-3,
     "num_folds": 1,
-    "checkpoint_dir": "WaterWind_densenet/waterwind_checkpoint_dir"
+    "checkpoint_dir": "/scratch/chitra/WaterWind_withsoftlabelsjson/waterwind_checkpoint_dir"
 }

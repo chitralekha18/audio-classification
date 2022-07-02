@@ -7,3 +7,4 @@ torchaudio==0.6.0
 torchsummary
 torchvision==0.7.0
 tqdm
+tensorboardX
