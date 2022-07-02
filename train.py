@@ -37,6 +37,7 @@ def train(model, device, data_loader, optimizer, loss_fn):
             optimizer.step()
 
             loss_avg.update(loss.item())
+            #print('loss avg is {:05.3f}'.format(loss_avg()))
 
             t.set_postfix(loss='{:05.3f}'.format(loss_avg()))
             t.update()
