@@ -1,6 +1,6 @@
 {
 	"dataset_name": "WaterWind_densenet",
-	"data_dir": "/scratch/chitra/WaterWind_withsoftlabelsjson/store_spectrograms/",
+	"data_dir": "/scratch/chitra/WaterWind_withsoftlabelsjson/store_spectrograms",
 	"dataaug": true,
 	"pretrained": true,
 	"scheduler": true,
