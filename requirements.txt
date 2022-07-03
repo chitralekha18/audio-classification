@@ -1,10 +1,11 @@
-pytorch==1.6.0 
-librosa
+python==3.6
+pytorch 
+librosa==0.7.2
 lmdb
 numpy
 pandas
-torchaudio==0.6.0
+torchaudio
 torchsummary
-torchvision==0.7.0
+torchvision
 tqdm
 tensorboardX

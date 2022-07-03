@@ -1,0 +1,3962 @@
+{
+    "DSPistons--mg_param1-00.00--c-00": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-01": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-02": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-03": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-04": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-05": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-06": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-07": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-08": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.00--c-09": {
+        "mg_param1_natural": 4.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-00": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-01": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-02": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-03": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-04": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-05": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-06": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-07": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-08": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.10--c-09": {
+        "mg_param1_natural": 4.4,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-00": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-01": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-02": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-03": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-04": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-05": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-06": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-07": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-08": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.20--c-09": {
+        "mg_param1_natural": 4.8,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-00": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-01": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-02": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-03": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-04": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-05": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-06": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-07": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-08": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.30--c-09": {
+        "mg_param1_natural": 5.2,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-00": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-01": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-02": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-03": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-04": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-05": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-06": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-07": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-08": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.40--c-09": {
+        "mg_param1_natural": 5.6,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-00": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-01": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-02": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-03": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-04": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-05": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-06": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-07": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-08": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.50--c-09": {
+        "mg_param1_natural": 6.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-00": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-01": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-02": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-03": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-04": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-05": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-06": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-07": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-08": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.60--c-09": {
+        "mg_param1_natural": 6.4,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-00": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-01": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-02": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-03": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-04": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-05": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-06": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-07": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-08": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.70--c-09": {
+        "mg_param1_natural": 6.800000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-00": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-01": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-02": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-03": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-04": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-05": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-06": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-07": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-08": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.80--c-09": {
+        "mg_param1_natural": 7.2,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-00": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-01": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-02": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-03": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-04": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-05": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-06": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-07": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-08": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-00.90--c-09": {
+        "mg_param1_natural": 7.6,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-00": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-01": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-02": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-03": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-04": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-05": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-06": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-07": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-08": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSPistons--mg_param1-01.00--c-09": {
+        "mg_param1_natural": 8.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSPistons",
+        "sound_source": "DSPistons",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-00": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-01": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-02": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-03": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-04": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-05": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-06": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-07": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-08": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.00--c-09": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-00": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-01": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-02": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-03": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-04": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-05": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-06": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-07": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-08": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.10--c-09": {
+        "mg_param1_natural": 0.1,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-00": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-01": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-02": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-03": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-04": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-05": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-06": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-07": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-08": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.20--c-09": {
+        "mg_param1_natural": 0.2,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-00": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-01": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-02": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-03": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-04": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-05": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-06": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-07": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-08": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.30--c-09": {
+        "mg_param1_natural": 0.30000000000000004,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-00": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-01": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-02": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-03": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-04": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-05": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-06": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-07": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-08": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.40--c-09": {
+        "mg_param1_natural": 0.4,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-00": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-01": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-02": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-03": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-04": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-05": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-06": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-07": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-08": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.50--c-09": {
+        "mg_param1_natural": 0.5,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-00": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-01": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-02": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-03": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-04": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-05": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-06": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-07": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-08": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.60--c-09": {
+        "mg_param1_natural": 0.6000000000000001,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-00": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-01": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-02": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-03": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-04": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-05": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-06": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-07": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-08": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.70--c-09": {
+        "mg_param1_natural": 0.7000000000000001,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-00": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-01": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-02": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-03": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-04": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-05": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-06": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-07": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-08": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.80--c-09": {
+        "mg_param1_natural": 0.8,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-00": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-01": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-02": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-03": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-04": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-05": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-06": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-07": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-08": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-00.90--c-09": {
+        "mg_param1_natural": 0.9,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-00": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-01": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-02": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-03": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-04": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-05": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-06": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-07": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-08": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSWind--mg_param1-01.00--c-09": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSWind",
+        "sound_source": "DSWind",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-00": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-01": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-02": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-03": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-04": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-05": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-06": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-07": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-08": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.00--c-09": {
+        "mg_param1_natural": 1.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-00": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-01": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-02": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-03": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-04": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-05": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-06": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-07": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-08": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.10--c-09": {
+        "mg_param1_natural": 1.2,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-00": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-01": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-02": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-03": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-04": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-05": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-06": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-07": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-08": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.20--c-09": {
+        "mg_param1_natural": 1.4,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-00": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-01": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-02": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-03": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-04": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-05": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-06": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-07": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-08": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.30--c-09": {
+        "mg_param1_natural": 1.6,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-00": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-01": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-02": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-03": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-04": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-05": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-06": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-07": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-08": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.40--c-09": {
+        "mg_param1_natural": 1.8,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-00": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-01": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-02": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-03": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-04": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-05": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-06": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-07": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-08": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.50--c-09": {
+        "mg_param1_natural": 2.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-00": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-01": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-02": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-03": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-04": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-05": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-06": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-07": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-08": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.60--c-09": {
+        "mg_param1_natural": 2.2,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-00": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-01": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-02": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-03": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-04": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-05": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-06": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-07": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-08": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.70--c-09": {
+        "mg_param1_natural": 2.4000000000000004,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-00": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-01": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-02": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-03": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-04": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-05": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-06": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-07": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-08": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.80--c-09": {
+        "mg_param1_natural": 2.6,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-00": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-01": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-02": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-03": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-04": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-05": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-06": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-07": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-08": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-00.90--c-09": {
+        "mg_param1_natural": 2.8,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-00": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-01": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-02": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-03": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-04": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-05": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-06": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-07": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-08": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSApplause--mg_param1-01.00--c-09": {
+        "mg_param1_natural": 3.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSApplause",
+        "sound_source": "DSApplause",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-00": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-01": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-02": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-03": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-04": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-05": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-06": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-07": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-08": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.00--c-09": {
+        "mg_param1_natural": -2.0,
+        "mg_param1_norm": 0.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-00": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-01": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-02": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-03": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-04": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-05": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-06": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-07": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-08": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.10--c-09": {
+        "mg_param1_natural": -1.8,
+        "mg_param1_norm": 0.1,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-00": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-01": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-02": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-03": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-04": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-05": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-06": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-07": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-08": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.20--c-09": {
+        "mg_param1_natural": -1.6,
+        "mg_param1_norm": 0.2,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-00": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-01": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-02": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-03": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-04": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-05": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-06": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-07": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-08": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.30--c-09": {
+        "mg_param1_natural": -1.4,
+        "mg_param1_norm": 0.30000000000000004,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-00": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-01": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-02": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-03": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-04": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-05": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-06": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-07": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-08": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.40--c-09": {
+        "mg_param1_natural": -1.2,
+        "mg_param1_norm": 0.4,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-00": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-01": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-02": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-03": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-04": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-05": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-06": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-07": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-08": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.50--c-09": {
+        "mg_param1_natural": -1.0,
+        "mg_param1_norm": 0.5,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-00": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-01": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-02": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-03": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-04": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-05": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-06": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-07": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-08": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.60--c-09": {
+        "mg_param1_natural": -0.7999999999999998,
+        "mg_param1_norm": 0.6000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-00": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-01": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-02": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-03": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-04": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-05": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-06": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-07": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-08": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.70--c-09": {
+        "mg_param1_natural": -0.5999999999999999,
+        "mg_param1_norm": 0.7000000000000001,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-00": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-01": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-02": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-03": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-04": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-05": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-06": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-07": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-08": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.80--c-09": {
+        "mg_param1_natural": -0.3999999999999999,
+        "mg_param1_norm": 0.8,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-00": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-01": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-02": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-03": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-04": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-05": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-06": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-07": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-08": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-00.90--c-09": {
+        "mg_param1_natural": -0.19999999999999996,
+        "mg_param1_norm": 0.9,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-00": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-01": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-02": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-03": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-04": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-05": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-06": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-07": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-08": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    },
+    "DSBugs--mg_param1-01.00--c-09": {
+        "mg_param1_natural": 0.0,
+        "mg_param1_norm": 1.0,
+        "samplerate": 16000,
+        "sound_name": "DSBugs",
+        "sound_source": "DSBugs",
+        "sound_source_int": 1,
+        "sound_source_str": "Generated"
+    }
+}

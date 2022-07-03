@@ -27,6 +27,9 @@ if __name__ == "__main__":
         lines = open(softlabelfile,'r').readlines()
         numparams = int(softlabelfile.replace('.csv','').split('_')[-2]) + int(softlabelfile.replace('.csv','').split('_')[-1])
         base_key = 'softlabel_'+softlabelfile.replace('.csv','').split('_')[-2]+'_'+softlabelfile.replace('.csv','').split('_')[-1]+'_'
+
+        
+
         if len(lines)!= len(filelist):
             print("Error!")
             break
@@ -34,8 +37,11 @@ if __name__ == "__main__":
         for lineno in range(len(lines)):
             filename = filelist[lineno].split(',')[0].replace('.wav','')
             softvals = list(map(float, lines[lineno].replace('\n','').split(',')))
+
             for param_id in range(numparams):
+
                 key = base_key+str(param_id)
+
                 data[filename][key] = round(sigmoid(softvals[param_id]),3)
 
     with open(output_json, "w") as outfile:

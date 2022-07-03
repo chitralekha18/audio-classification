@@ -8,7 +8,7 @@ def evaluate(model, device, test_loader, params, test=0):
 	conf_mat = np.zeros((params.nodes[1],params.nodes[1]))
 
 	if test:
-		fout = open('predicted_.csv','w')
+		fout = open('predicted_'+str(params.nodes[1])+'_'+str(params.nodes[1])+'.csv','w')
 	
 	model.eval()
 	with torch.no_grad():
@@ -18,6 +18,7 @@ def evaluate(model, device, test_loader, params, test=0):
 			model.model.classifier[0].register_forward_hook(model.hook)
 
 			outputs = model(inputs)
+
 			if test:
 				for i in range(min(len(model.layeroutput),len(outputs.data))):
 					fout.write(','.join(model.layeroutput[i].numpy().astype('str'))+',')
