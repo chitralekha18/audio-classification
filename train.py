@@ -71,6 +71,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     params = utils.Params(args.config_path)
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    if torch.cuda.is_available() :
+        print("USING CUDA")
+    else :
+        print("NOT USING CUDA !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+
     for i in range(1, params.num_folds+1):
         if params.dataaug:
             train_loader = dataloaders.datasetaug.fetch_dataloader( "{}/training128mel{}.pkl".format(params.data_dir, i), params.dataset_name, params.batch_size, params.num_workers, 'train')
