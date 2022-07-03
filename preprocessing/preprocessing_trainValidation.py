@@ -68,9 +68,9 @@ if __name__=="__main__":
 		validation_audios = audios.loc[audios["fold"]==i]
 
 		training_values = extract_features(training_audios)
-		with open("{}training128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
+		with open("{}/training128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
 			pkl.dump(training_values, handler, protocol=pkl.HIGHEST_PROTOCOL)
 
 		validation_values = extract_features(validation_audios)
-		with open("{}validation128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
+		with open("{}/validation128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
 			pkl.dump(validation_values, handler, protocol=pkl.HIGHEST_PROTOCOL)

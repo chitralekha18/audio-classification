@@ -8,12 +8,19 @@ import torchaudio
 import torchvision
 from PIL import Image
 import pdb
+import os
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--csv_file", type=str)
 parser.add_argument("--data_dir", type=str)
 parser.add_argument("--store_dir", type=str)
 parser.add_argument("--sampling_rate", default=44100, type=int)
+args = parser.parse_args()
+
+print(f'The requested store_dir is {args.store_dir}')
+if not os.path.exists(args.store_dir):
+	print(f'The dir {args.store_dir} does not exist - making it.')
+	os.makedirs(args.store_dir)
 
 def extract_spectrogram(values, clip, entries):
 	for data in entries:
@@ -60,5 +67,5 @@ if __name__=="__main__":
 
 
 		validation_values = extract_features(validation_audios)
-		with open("{}testing128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
+		with open("{}/testing128mel{}.pkl".format(args.store_dir, i),"wb") as handler:
 			pkl.dump(validation_values, handler, protocol=pkl.HIGHEST_PROTOCOL)
