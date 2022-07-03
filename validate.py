@@ -2,10 +2,10 @@ import torch
 import numpy as np
 import pdb
 from torchsummary import summary
-def evaluate(model, device, test_loader,test=0):
+def evaluate(model, device, test_loader, params, test=0):
 	correct = 0
 	total = 0
-	conf_mat = np.zeros((2,2))
+	conf_mat = np.zeros((params.nodes[1],params.nodes[1]))
 
 	if test:
 		fout = open('predicted_.csv','w')
