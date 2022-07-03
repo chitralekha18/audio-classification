@@ -9,14 +9,16 @@ import re
 parser = argparse.ArgumentParser()
 parser.add_argument("--csvfile", type=str, help="name of output csv file", default='outputcsv')
 parser.add_argument("--datafolder", type=str, help="path to foler of aduio data")
-parser.add_argument("--trainfolds", type=int, help="number of folds for training (tho only one is used, it determines the size of the test set)")
+parser.add_argument("--numFolds", type=int, help="number of folds for training (tho only one is used, it determines the size of the test set)")
 
 args = parser.parse_args()
 
 baseNames = list(set([re.search('(.+?)--*',s).group(1) for s in listdir(args.datafolder) ]) )
+numTargets=len(baseNames)
+
 #baseNames.sort()
 #baseNames.reverse()
-print(f'Base file names in directory are {baseNames}')
+print(f'There are {numTargets} targets and their base file names in the directory are {baseNames}')
 
 
 
@@ -46,27 +48,23 @@ for baseName in baseNames :
 	nameCounter+=1
 
 
+indices=[] # indicies of sounds in a fold
+folds=args.numFolds   # number of folds
+foldLength=[]         # length of a fold for each sound
 
-	
-indices0 = [i for i, x in enumerate(target) if x == "0"]
-indices1 = [i for i, x in enumerate(target) if x == "1"]
-print(len(indices0),len(indices1))
+for n in range(numTargets):
+	indices.append([i for i, x in enumerate(target) if x == str(n)])
+	print(f"length of indices[{n}] is {len(indices[0])}")
+	foldLength.append(int(len(indices[n])/folds))
+	print(f"Number of folds for target {n} is {foldLength[n]}")
 
-folds=args.trainfolds
-i = 0
-indices0foldnum = int(len(indices0)/folds)
-indices1foldnum = int(len(indices1)/folds)
+
+
 for fold in range(folds):
-	for index in indices0[fold*indices0foldnum:fold*indices0foldnum+indices0foldnum]:
-		print('class0',index)
-		print(len(target),len(filenamelist),len(param))
-		fout.write(filenamelist[index]+','+str(fold)+','+target[index]+','+param[index]+'\n')
-			
-		i = i+1
-	for index in indices1[fold*indices1foldnum:fold*indices1foldnum+indices1foldnum]:
-		print('class1',index)
-		fout.write(filenamelist[index]+','+str(fold)+','+target[index]+','+param[index]+'\n')
-		i = i+1
-
+	for n in range(numTargets):
+		for index in indices[n][fold*foldLength[n]:fold*foldLength[n]+foldLength[n]]:
+			print('class0',index)
+			print(len(target),len(filenamelist),len(param))
+			fout.write(filenamelist[index]+','+str(fold)+','+target[index]+','+param[index]+'\n')
 fout.close()
 

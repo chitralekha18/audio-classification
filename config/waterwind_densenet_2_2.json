@@ -1,6 +1,6 @@
 {
 	"dataset_name": "WaterWind_densenet",
-	"data_dir": "WaterWind_densenet/store_spectrograms/",
+	"data_dir": "WaterWind_densenet/store_spectrograms",
 	"dataaug": true,
 	"pretrained": true,
 	"scheduler": true,
