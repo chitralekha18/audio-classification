@@ -22,7 +22,7 @@ parser.add_argument("--config_path", type=str)
 
 
 def evaluate(model, device, val_loader, params, split):
-    acc,conf_mat = validate.evaluate(model, device, val_loader,test=1)
+    acc,conf_mat = validate.evaluate(model, device, val_loader,params,test=1)
     print(conf_mat)
     return acc
 

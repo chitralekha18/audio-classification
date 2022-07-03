@@ -3,7 +3,7 @@
 This repository is forked from the repository that contains the PyTorch code for the paper [Rethinking CNN Models for Audio Classification](https://arxiv.org/abs/2007.11154). 
 
 ## Installation
-Install the packages to create the conda 'audioclassification' environment:
+Install the packages to create the conda 'audioclassification2' environment:
 ```
 conda env create -f requirements.yml
 conda activate audioclassification2
@@ -45,7 +45,7 @@ python train.py --config_path config/your_config.json
 
 ### Testing the model
 ```console
-python test.py --config_path /config/your_config.json
+python test.py --config_path config/your_config.json
 ```
 The output is going to be in your current directory in "predicted_.csv". The number of columns in this file is equal to the number of nodes in penultimate layer plus the number of output nodes. For example, if the penultimate layer has 3 nodes and the final layer has 2 nodes, there will be 5 columns in the predicted CSV file.
 
